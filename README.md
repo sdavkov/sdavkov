@@ -5,7 +5,7 @@
 - :green_apple: Буду рад интересным проектам.
 - :mountain_bicyclist: Люблю enduro!
 
-![React](../blob/main/react.png)
+![React](../main/react.png)
 
 
 <!--
