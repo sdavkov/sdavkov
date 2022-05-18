@@ -1,4 +1,12 @@
-### Hi there 👋
+### Привет всем, меня зовут Сергей 👋
+
+:bowtie: Я фронтенд разработчик, основной инструмент React, хотя могу и Vue и Angular.
+:dart: Стремлюсь писать чистый код.
+:green_apple: Буду рад интересным проектам.
+:mountain_bicyclist: Люблю enduro!
+
+
+
 
 <!--
 **sdavkov/sdavkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
